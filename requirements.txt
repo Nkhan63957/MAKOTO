@@ -1,0 +1,10 @@
+stable_baselines3
+gymnasium
+torch
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+requests
+scipy
